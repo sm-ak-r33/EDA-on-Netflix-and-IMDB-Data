@@ -12,6 +12,6 @@
 
 * Finding all movies that appear both in the Netflix and IMDB movies datasets.
 
-* Filtering on movies that were categorized as comedies. Find the top 10 comedies on Netflix.
+* Filtering on movies that were categorized as comedies. Finding the top 10 comedies on Netflix.
  a. What year(s) were they released in?
  b. What continent do these movies come from?
