@@ -2,7 +2,7 @@
 
 * Pulling in Netflix.csv file. Performing EDA, provide overall summary statistics and visualizations to show distribution of numerical and categorical variables.
 
-* Filtering for and find the total number of movies in the Netflix dataset.
+* Filtering and finding the total number of movies in the Netflix dataset.
 
 * Adding a continent column to the dataset in order to not only see the country of the movie but also the corresponding continent.
 
